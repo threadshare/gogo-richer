@@ -1,0 +1,6 @@
+language: go
+go:
+    - tip
+    - 1.4
+install:
+    - go get github.com/miaolz123/conver
